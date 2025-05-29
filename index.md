@@ -117,7 +117,7 @@ Finally, we scrape multiple tournament URLs by chaining `await scrapeGolfSite(ur
 Here’s what the scraped data looks like once exported to Excel:
 
 
-![Excel Output Screenshot](web_scraping/output_golf.png)
+![Excel Output Screenshot](output_golf.png)
 
 This raw output will need to be parsed to extract meaningful insights—like comparing scores to pars, analyzing round-over-round performance, or reshaping the data for dashboards or modeling.
 
