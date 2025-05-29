@@ -1,0 +1,6 @@
+# Site settings
+title: Golf Leaderboard Scraping
+description: Scraping dynamic golf tournament data with Puppeteer.
+
+# Theme for styling
+theme: jekyll-theme-cayman  # A clean, single-page Jekyll theme
